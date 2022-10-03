@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to splitmycosts.com</h1>
-        <h3>Split expenses equally among your friends and generate the pending transfers!</h3>
+        <h4>Split expenses equally among your friends and generate the pending transfers!</h4>
+        <h2>Coming Soon!</h2>
       </header>
     </div>
   );
